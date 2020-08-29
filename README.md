@@ -17,8 +17,8 @@
 
 #### Onde você pode me encontrar?
 
-- 📫 Você me contatar por e-mail: mikael@icomp.ufam.edu.br OU
-- 📞 Você pode falar comigo pelo Telegram: @miskas
+- 📫 Você me contatar por e-mail: mikael@icomp.ufam.edu.br
+- 📞 Você pode falar comigo pelo Telegram: @miskas ou t.me/miskas
 - Também participo de grupos de Machine Learning/Data Science:
   - [BR Data Science & Python](t.me/datasciencepython])
   - [PyData Brasil](t.me/pydatabr)
