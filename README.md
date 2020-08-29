@@ -8,10 +8,11 @@
 - ⚡ **Tocando piano 🎶**, **indo a academia 💪** e **tentando escrever [meu blog](mikaelsouza.com) 📝**.
 - 😊 **Interessado** em contribuir em projetos open source e aprender francês.
 
-### Tecnologias:
+### Conhecimentos:
 
 - **Linguagens:** 🐍 Python , 🏃‍💨 C , 🏃‍♀️ C++, ☕ Java , 😵 Javascript.
 - **Bibliotecas:** Pytorch, Pandas, Numpy, Scikit-Learn.
+- **Modelos:** Classificação, Regressão, Modelos Geradores, Séries Temporais.
 - **Outros:** Docker, VSCode, macOS, Linux, Windows.
 
 #### Onde você pode me encontrar?
