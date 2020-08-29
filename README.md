@@ -1,5 +1,11 @@
 ### BEM VIND()S AO MEU PERFIL 👋
 
+#### Sobre mim:
+* Quero aprimorar minha escrita técnica e geral, por conta disso tenho [um blog](mikaelsouza.com) (Em construção).
+* Gosto de música e de instrumentos musicais. Eventualmente desejo unir esse hobby com computação.
+* Busco uma desculpa pra trabalhar com Rust.
+* INTP-T :)
+
 #### O que eu ando aprontando atualmente?
 
 - 🔭 **Mestrando** na Universidade Federal do Amazonas com foco em *Natural Language Processing*.
@@ -18,9 +24,3 @@
   - [BR Data Science & Python](t.me/datasciencepython])
   - [PyData Brasil](t.me/pydatabr)
   - [PyNorte](t.me/pynorte)
-
-#### Sobre mim:
-* Quero aprimorar minha escrita técnica e geral, por conta disso tenho [um blog](mikaelsouza.com) (Em construção).
-* Gosto de música e de instrumentos musicais. Eventualmente desejo unir esse hobby com computação.
-* Buscando uma desculpa pra trabalhar com Rust.
-* INTP-T
