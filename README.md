@@ -12,7 +12,7 @@
 
 - **Linguagens:** 🐍 Python , 🏃‍💨 C , 🏃‍♀️ C++, ☕ Java , 😵 Javascript.
 - **Bibliotecas:** Pytorch, Pandas, Numpy, Scikit-Learn.
-- **Modelos:** Classificação, Regressão, Modelos Geradores, Séries Temporais.
+- **Problemas:** Classificação, Regressão, Modelos Geradores, Séries Temporais.
 - **Outros:** Docker, VSCode, macOS, Linux, Windows.
 
 #### Onde você pode me encontrar?
