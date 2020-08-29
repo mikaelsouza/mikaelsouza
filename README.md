@@ -4,7 +4,7 @@
 * Quero aprimorar minha escrita técnica e geral, por conta disso tenho [um blog](mikaelsouza.com) (Em construção).
 * Gosto de música e de instrumentos musicais. Eventualmente desejo unir esse hobby com computação.
 * Busco uma desculpa pra trabalhar com Rust.
-* INTP-T 😊
+* INTP-T 
 
 #### O que eu ando aprontando atualmente?
 
