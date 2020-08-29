@@ -6,7 +6,7 @@
 - 🌱 **Aprendendo** sobre como lidar com a vida, interagir com outras pessoas e ... *Deep Learning*? 🤔
 - 👯 **Buscando oportunidades** onde posso ensinar, aprender e trocar ideias.
 - ⚡ **Tocando Piano 🎶**, **indo a academia 💪** e **tentando escrever [meu blog](mikaelsouza.com) 📝**.
-- 😊 **Interessado** em contribuir em projetos open source focados em privacidade e aprender francês.
+- 😊 **Interessado** em contribuir em projetos open source e aprender francês.
 
 ### Tecnologias:
 
