@@ -14,6 +14,11 @@
 - ⚡ **Tocando Piano 🎶**, **indo a academia 💪** e **tentando escrever meu blog 📝**.
 - 😊 **Interessado** em contribuir em projetos open source focados em privacidade e aprender francês.
 
+### Tecnologias:
+
+- **Linguagens:** 🐍 Python , 🏃‍💨 C , 🏃‍♀️ C++, ☕ Java , 😵 Javascript.
+- **Bibliotecas:** Pytorch, Pandas, Numpy, Scikit-Learn.
+- **Outros:** Docker, VSCode, macOS, Linux, Windows.
 
 #### Onde você pode me encontrar?
 
