@@ -1,23 +1,26 @@
-### Hi there 👋
+### BEM VIND()S AO MEU PERFIL 👋
 
-<!--
-**mikaelsouza/mikaelsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### O que eu ando aprontando atualmente?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on TESTE
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Mestrado** na UFAM com foco em *Natural Language Processing*.
+- 🌱 **Aprendendo** sobre como lidar com a vida, interagir com outras pessoas e ... *Deep Learning*? 🤔
+- 👯 **Buscando oportunidades** onde posso ensinar, aprender e trocar ideias.
+- ⚡ **Tocando Piano 🎶**, **indo a academia 💪** e **tentando escrever meu blog 📝**.
+- 😊 **Interessado** em contribuir em projetos open source focados em privacidade e aprender francês.
 
 
-Eu sou o mikas :)
+#### Onde você pode me encontrar?
 
-:) :)
+- 📫 Você me contatar por e-mail: mikael@icomp.ufam.edu.br OU
+- 📞 Você pode falar comigo pelo Telegram: @miskas
 
-:))
+- Também participo de grupos de Machine Learning/Data Science:
+  - [BR Data Science & Python](t.me/datasciencepython])
+  - [PyData Brasil](t.me/pydatabr)
+  - [PyNorte](t.me/pynorte)
+
+#### Sobre mim:
+* Quero aprimorar minha escrita técnica e geral, por conta disso tenho [um blog](mikaelsouza.com) (Em construção).
+* Gosto de música e de instrumentos musicais. Eventualmente desejo unir esse hobby com computação.
+* Buscando uma desculpa pra trabalhar com Rust.
+* INTP-T
