@@ -8,7 +8,7 @@
 - ⚡ **Tocando piano 🎶**, **indo a academia 💪** e **tentando escrever [meu blog](mikaelsouza.com) 📝**.
 - 😊 **Interessado** em contribuir em projetos open source e aprender francês.
 
-### Conhecimentos:
+#### Conhecimentos:
 
 - **Linguagens:** 🐍 Python , 🏃‍💨 C , 🏃‍♀️ C++, ☕ Java , 😵 Javascript.
 - **Bibliotecas:** Pytorch, Pandas, Numpy, Scikit-Learn.
