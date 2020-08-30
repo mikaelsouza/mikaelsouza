@@ -28,6 +28,11 @@
 - **Problemas:** Classificação, Regressão, Modelos Geradores, Séries Temporais.
 - **Outros:** Docker, VSCode, macOS, Linux, Windows.
 
+#### Contribuições:
+
+- Pequena contribuição no código de [tensorflow/models](https://github.com/tensorflow/models)
+- Pequenas contribuições na documentação de [huggingface/transformers](https://github.com/huggingface/transformers) e [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)
+
 #### Onde você pode me encontrar?
 
 - 📫 Você me contatar por e-mail: mikael@icomp.ufam.edu.br
@@ -37,7 +42,4 @@
   - [PyData Brasil](t.me/pydatabr)
   - [PyNorte](t.me/pynorte)
   
-#### Contribuições:
 
-- Pequena contribuição no código de [tensorflow/models](https://github.com/tensorflow/models)
-- Pequenas contribuições na documentação de [huggingface/transformers](https://github.com/huggingface/transformers) e [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)
