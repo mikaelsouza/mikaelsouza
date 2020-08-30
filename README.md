@@ -22,9 +22,7 @@
 #### Outros:
 
 - [Desafios de Programação](https://github.com/mikaelsouza/refactored-waffle.git): Questões de competições de programação em C, C++ e Java.
-- [Snake](https://github.com/mikaelsouza/snake_tutorial)
-- [Breakout](https://github.com/mikaelsouza/breakout-clone)
-- [Pong](https://github.com/mikaelsouza/pong-base)
+- [Snake](https://github.com/mikaelsouza/snake_tutorial): Clone do jogo Snake usando Javascript.
 
 #### Conhecimentos:
 
