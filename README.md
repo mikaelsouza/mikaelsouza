@@ -24,7 +24,7 @@
 #### Conhecimentos:
 
 - **Linguagens:** 🐍 Python , 🏃‍💨 C , 🏃‍♀️ C++, ☕ Java , 😵 Javascript.
-- **Bibliotecas:** Pytorch, Pandas, Numpy, Scikit-Learn.
+- **Bibliotecas:** Pytorch, Keras, Pandas, Numpy, Scikit-Learn.
 - **Problemas:** Classificação, Regressão, Modelos Geradores, Séries Temporais.
 - **Outros:** Docker, VSCode, macOS, Linux, Windows.
 
