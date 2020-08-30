@@ -37,7 +37,7 @@
   - [PyData Brasil](t.me/pydatabr)
   - [PyNorte](t.me/pynorte)
   
-  #### Contribuições:
-  
-  - Pequena contribuição no código de [tensorflow/models](https://github.com/tensorflow/models)
-  - Pequenas contribuições na documentação de [huggingface/transformers](https://github.com/huggingface/transformers) e [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)
+#### Contribuições:
+
+- Pequena contribuição no código de [tensorflow/models](https://github.com/tensorflow/models)
+- Pequenas contribuições na documentação de [huggingface/transformers](https://github.com/huggingface/transformers) e [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)
