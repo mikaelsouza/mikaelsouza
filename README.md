@@ -36,6 +36,6 @@
 #### Onde você pode me encontrar?
 
 - 📫 Você me contatar por e-mail: mikael@icomp.ufam.edu.br
-- 📞 Você pode falar comigo pelo Telegram: @miskas ou [t.me/miskas](https://t.me/miskas)
+- 📞 Você pode falar comigo pelo Telegram: @mikaelsouza ou [t.me/mikaelsouza](https://t.me/mikaelsouza)
   
 
