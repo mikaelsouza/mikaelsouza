@@ -6,7 +6,7 @@ If you want to pay me lots of money to work for you, you can contact me at:
 
 https://linkedin.com/in/mikaelsouza
 
-I also have this website: https://pato.webmikas.com
+I also have this website: https://webmikas.com
 
 There's a duck in there.
 
