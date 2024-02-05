@@ -11,3 +11,5 @@ I also have this website: https://webmikas.com
 There's a duck in there.
 
 Most of the time, the website is broken though...
+
+I also try to work on a few open source projects. That happens sparingly though.
