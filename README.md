@@ -1,6 +1,6 @@
 ### Welcome.
 
-I am currently a Machine Learning Engineer, but I also worked as a Data Scientist previously.
+I am currently working as a Software Engineer.
 
 You can contact me at:
 
